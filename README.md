@@ -3,6 +3,8 @@ To run the code, save both the Server.py and Client.py scripts to a folder as py
 
 # Commands
 #<username> <message> - Will allow a user to direct message the user specified after the hashtag
+
 /kick <username> - The command to kick someone if you have admin privileges
+
 /ban <username>  - The command to ban someone and add their username to ban list
 
